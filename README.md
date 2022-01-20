@@ -1,2 +1,2 @@
-# TypeScript-Prisma-
+# TypeScript-Prisma
 Typescript Prisma Implementation Example
